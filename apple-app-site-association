@@ -3,8 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAM_ID.com.example.app",
-        "paths": [ "/app-path/*" ]
+        "appID": "LQDZ5XV4QQ.com.fullentronmarket.myapp",
+        "paths": [ "/signup/*" ]
+      },
+            {
+        "appID": "LQDZ5XV4QQ.com.fullertonmarkets.ios",
+        "paths": [ "/signup/*" ]
       }
     ]
   }
